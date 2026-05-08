@@ -1,2 +1,2 @@
 
-<img width="3840" height="1710" alt="image" src="https://github.com/user-attachments/assets/7fe20bde-0bd5-40e3-beec-916c41f86cb6" />
+<img width="3840" height="1710" alt="GitHub API Integration with Supabase" src="https://github.com/user-attachments/assets/070cab0e-9d74-411a-b422-cca03348a2c2" />
